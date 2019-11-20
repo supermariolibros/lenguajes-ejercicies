@@ -23,9 +23,9 @@ const init = (array) => {
 
 
 const arrayTest = [1,2,3,4,5];
-const arrayTest1 = [1];
+
 console.log("ARRAY TEST ->" + arrayTest);
-console.log("HEAD ->" + head(arrayTest1));
+console.log("HEAD ->" + head(arrayTest));
 console.log("INIT ->" + init(arrayTest));
-console.log("LAST ->" + last(arrayTest1));
-console.log("TAIL ->" + tail(arrayTest1));
+console.log("LAST ->" + last(arrayTest));
+console.log("TAIL ->" + tail(arrayTest));

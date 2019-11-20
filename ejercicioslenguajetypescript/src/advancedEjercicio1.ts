@@ -19,4 +19,5 @@ function aplanar(arrayIn: Array<any>): Array<number> {
     }
 };
 
+console.log("salida del ejercicio avanzado 1: ");
 console.log(aplanar(sample));
