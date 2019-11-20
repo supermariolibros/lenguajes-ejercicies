@@ -1,0 +1,14 @@
+{
+  "name": "language-module-exercises",
+  "version": "1.0.0",
+  "description": "Ejercicios del modulo 2 de Lemon code",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server -c bs-config.json"
+  },
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "peerDependencies": {},
+  "devDependencies": {}
+}
